@@ -1,21 +1,21 @@
 # Hi, I'm Brahma 👋
-🎯 Aspiring Data Analyst | SQL | Power BI | Python | MySQL
+
+🎯 Java Developer | Spring Boot | REST APIs | MySQL
 
 ## 🔧 Skills
-- SQL (MySQL) — Window Functions, CTEs, Joins
-- Power BI — DAX, Data Modeling, Dashboards
-- Python — pandas, numpy, EDA
-- Excel — VLOOKUP, Pivot Tables, SUMIFS
+- Core Java (OOP, Collections, Exception Handling)
+- Spring Boot, REST APIs, MVC Architecture
+- MySQL — Joins, Subqueries, CTEs, Window Functions, Query Optimization
+- Maven, Postman, Git/GitHub
+- SQL (HackerRank 3-Star Certified)
+
+## 💼 Currently
+Working as a Java Developer at NLC India Limited (NLCIL), building backend features and REST APIs for a live enterprise application.
 
 ## 📊 Projects
-- RI Retail Sales Dashboard (MySQL + Power BI)
-- Retail Performance Analysis (2014-2017)
+- **[IT Asset Management System](https://github.com/ChinthamBrahmaiah/asset-management)** — Role-based backend (Admin/Employee/Support dashboards) with ticketing, built in Core Java + Spring Boot + MySQL
+
 
 ## 📫 Contact
 - LinkedIn: linkedin.com/in/brahma-chintham
-- Email: brahmaiahchintham030@gmail.com
-
-
-
-
-
+- Email: chinthambrahmaiah19@gmail.com
